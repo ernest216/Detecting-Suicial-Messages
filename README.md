@@ -6,7 +6,7 @@ Suicide is a global public health crisis, ranking among the leading causes of de
 
 ## 2. Research Topic
 
-The primary research question addressed in this project is: **Can machine learning effectively identify suicidal messages?** This question reflects a significant need within mental health support systems, where early detection can have lifesaving implications. Machine learning offers a scalable and efficient approach to analyzing the increasing volume of text data generated on digital platforms.
+The primary research question addressed in this project is: **Can machine learning models effectively identify suicidal messages?** This question reflects a significant need within mental health support systems, where early detection can have lifesaving implications. Machine learning offers a scalable and efficient approach to analyzing the increasing volume of text data generated on digital platforms.
 
 ## 3. Dataset and Preprocessing
 
