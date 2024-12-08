@@ -30,13 +30,13 @@ Logistic Regression was chosen for its interpretability, efficiency, and suitabi
 
 The dataset was split into training and testing subsets using an 80-20 stratified split, ensuring class distribution remained consistent across subsets. Preprocessing and feature extraction were applied exclusively to the training set to prevent data leakage. The TF-IDF vectorizer was fit on the training set and used to transform the test set, ensuring consistency.
 
-### Running Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-name
-   cd your-repo-name
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+## 6. Results and Analysis
+The Logistic Regression model achieved high performance:
 
-4. 
+- **Accuracy**: ~93.3%
+- **ROC-AUC**: 0.98, indicating excellent discrimination between classes.
+- **Feature Importance**: Identified significant predictors like "suicide," "die," and "help."
+- **Visualization**: Word clouds and word frequency distributions provided intuitive insights into suicidal vs. non-suicidal messages.
+
+## 7. Conclusion
+This project demonstrates the potential of Logistic Regression as a scalable and interpretable solution for suicide detection in text data. While more complex deep learning models may offer marginally better accuracy, Logistic Regression balances performance, efficiency, and interpretability, making it suitable for practical applications. Future work could explore additional datasets and advanced models to address current limitations.
