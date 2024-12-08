@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Suicide is a global public health crisis, ranking among the leading causes of death worldwide [2]. Digital platforms, such as Reddit, often serve as spaces where individuals express emotional struggles, including suicidal ideation. Leveraging machine learning to detect these signals provides an opportunity for timely intervention and support. This project explores the application of Logistic Regression, an interpretable and efficient machine learning model, to classify text messages as either suicidal or non-suicidal. By detecting patterns in text, the model aims to assist mental health professionals in prioritizing cases that require immediate attention.
+Suicide is a global public health crisis, ranking among the leading causes of death worldwide. Digital platforms, such as Reddit, often serve as spaces where individuals express emotional struggles, including suicidal ideation. Leveraging machine learning to detect these signals provides an opportunity for timely intervention and support. This project explores the application of Logistic Regression, an interpretable and efficient machine learning model, to classify text messages as either suicidal or non-suicidal. By detecting patterns in text, the model aims to assist mental health professionals in prioritizing cases that require immediate attention.
 
 ## 2. Research Topic
 
